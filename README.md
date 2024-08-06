@@ -30,7 +30,7 @@ churn_distribution.png: Visualization of churn distribution.
 correlation_matrix.png: Correlation matrix heatmap.
 feature_importance.png: Bar plot of feature importance.
 churn_prediction_report.txt: Summary report of the project findings.
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone 
 cd customer-churn-prediction
 pip install -r requirements.txt
 jupyter notebook churn_prediction.ipynb
